@@ -1,0 +1,3 @@
+e logs[ENTER]
+make the changes and generat [BACKSPACE] e[BACKSPACE][BACKSPACE]e the whold[BACKSPACE]e ci[BACKSPACE]ode[ENTER]
+
