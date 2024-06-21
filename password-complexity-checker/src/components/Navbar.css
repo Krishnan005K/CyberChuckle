@@ -1,0 +1,30 @@
+/* src/components/Navbar.css */
+nav {
+    background-color: #333;
+    padding: 1rem;
+    margin-top: -40px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  nav ul li:hover{
+    background-color: #444;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 1rem;
+    padding: 5px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+
+  

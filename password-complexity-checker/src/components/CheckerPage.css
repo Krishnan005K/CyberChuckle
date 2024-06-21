@@ -1,0 +1,26 @@
+/* src/components/CheckerPage.css */
+div {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .checker-h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  input {
+    padding: 12px;
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .checker-p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+.complexity-image{
+  width: 100px;
+  height: 100px;
+}

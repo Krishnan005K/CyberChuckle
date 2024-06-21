@@ -1,0 +1,57 @@
+/* src/components/DetailPage.css */
+.detail-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color:#333;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.detail-content {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin-top: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  font-size: 1rem;
+  color: #fffdfd;
+  margin-bottom: 0.5rem;
+}
+
+.example {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+code {
+  background-color: #444;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: monospace;
+}
